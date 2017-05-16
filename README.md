@@ -41,8 +41,13 @@ For a detailed understanding of how to use the Nuco Kernel and APIs, please refe
 
 ### Bug Reporting / Feature Requests
 
-If you find any Bugs with any of our software or need a feature to implement your groundbreaking idea, just sumbit an [issue](https://guides.github.com/features/issues/) on this Github repository, and our engineers will be on it!
+If you find any Bugs with any of our software or need a feature to implement your groundbreaking idea, just submit an [issue](https://guides.github.com/features/issues/) on this Github repository, and our engineers will be on it!
 
+Feel free to reach out to us if you have any questions or comments!
+
+Gitter: https://gitter.im/nuco-beta
+Github: https://github.com/gonuco/NucoRelease
+Email: support@nuco.io
 
 
 
