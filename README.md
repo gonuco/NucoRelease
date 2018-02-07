@@ -37,7 +37,7 @@
 
 We have complete working demo applications which live in the `/java-demo` and `/web3-demo` directories respectively. 
 
-For a detailed understanding of how to use the Nuco Kernel and APIs, please refer to our [Developers portal](https://nuco.io/documentaion)
+For a detailed understanding of how to use the Nuco Kernel and APIs, please refer to our [Developers portal](https://nuco.io/documentation)
 
 ### Bug Reporting / Feature Requests
 
